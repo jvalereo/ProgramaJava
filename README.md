@@ -1,2 +1,4 @@
 # ProgramaJava
- Primeiro Programa Java
+ Primeiro Programa Java "Olá Mundo"
+ Obs: Na Pasta dit tem o programa executavel
+ 
