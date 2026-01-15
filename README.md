@@ -9,7 +9,7 @@
 
 # Logo C#
 <a target="_blank">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://github.com/user-attachments/assets/12e7dd3b-745c-4082-805f-027b5514eb05" style="max-width: 100%;"></img>
 </a>
 
 # Projeto ETESP - Etec de São Paulo - Centro Paula Souza 2015
