@@ -2,7 +2,7 @@
 
 # Tela do Sistema de Cadastro
 <a target="_blank">
-<target=_blank><img align="center"  alt="jonas-Layout" height ="400" width ="400" src ="https://github.com/user-attachments/assets/d4b4259d-11c9-41bf-a4f0-4e108a945fea" style="max-width: 100%></img></target>
+<target=_blank><img align="center"  alt="jonas-Layout" height ="350" width ="350" src ="https://github.com/user-attachments/assets/d4b4259d-11c9-41bf-a4f0-4e108a945fea" style="max-width: 100%></img></target>
 </a>
 
 ##
