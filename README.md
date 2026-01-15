@@ -2,7 +2,7 @@
 
 # Tela do Sistema de Cadastro
 <a target="_blank">
-<target=_blank><img align="center"  alt="jonas-Layout" height ="700" width ="700" src ="https://github.com/user-attachments/assets/d4b4259d-11c9-41bf-a4f0-4e108a945fea" style="max-width: 50%;"></img></target>
+<target=_blank><img align="center"  alt="jonas-Layout" height ="700" width ="700" src ="https://github.com/user-attachments/assets/d4b4259d-11c9-41bf-a4f0-4e108a945fea" style="min-width: 100%;"></img></target>
 </a>
 
 # Logo C#
