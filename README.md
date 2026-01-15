@@ -9,7 +9,7 @@
 
 # Logo C#
 <a target="_blank">
-<img align="center"  alt="jonas-C#" height ="50" width ="50" src ="https://github.com/user-attachments/assets/12e7dd3b-745c-4082-805f-027b5514eb05" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="600" width ="600" src ="https://github.com/user-attachments/assets/12e7dd3b-745c-4082-805f-027b5514eb05" style="max-width: 100%;"></img>
 </a>
 
 # Projeto Primeiro Programa Java
